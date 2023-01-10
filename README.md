@@ -1,5 +1,14 @@
 # hackintosh-10400f--b460i-5500xt
 hackintosh
+
+
+oc：0.88
+
+
+系统win11+macos12.6.1
+
+
+
 设备：
 cpu：10400f
 主板：微星b460i
