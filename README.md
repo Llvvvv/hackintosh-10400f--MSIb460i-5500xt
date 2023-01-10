@@ -1,4 +1,4 @@
-# hackintosh-10400f--b460i-5500xt
+# hackintosh-10400f--MSI b460i-5500xt
 hackintosh
 
 
